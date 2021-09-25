@@ -2,7 +2,7 @@
 
 ## Estudiante Programación MisiónTIC
 
-## Skills
+### Skills
 
 -Python basico
 
