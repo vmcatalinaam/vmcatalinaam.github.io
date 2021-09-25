@@ -1,4 +1,4 @@
-# Mi nombre Catalina Valderrama 👩🏽
+# Hola, soy Catalina Valderrama 👩🏽
 
 ## Estudiante Programación MisiónTIC
 
